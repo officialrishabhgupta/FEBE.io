@@ -1,0 +1,50 @@
+.batting-containers {
+    display: table;
+    justify-content: center;
+  }
+  
+  .batting-rows {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #d7d7d7;
+    width: 1000px;
+  }
+  
+  .batting {
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+  
+    min-width: 300px;
+  }
+  
+  .batting h1 {
+    font-size: 16px;
+    width: 150px;
+  }
+  
+  .batting-symbols {
+    text-transform: uppercase;
+  }
+  
+  .batting-datas {
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .batting-srs {
+    width: 110px;
+  }
+  
+  .batting-poss {
+    width: 155px;
+  }
+  
+  .batting-dismissals {
+    width: 230px;
+  }
