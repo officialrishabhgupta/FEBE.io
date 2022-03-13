@@ -1,8 +1,8 @@
 const express = require("express");
 const router = new express.Router();
-const odicontroller = require("../controllers/odicontroller");
+const getController = require("../controllers/getController");
 
-router.route("/odi")
-.get(odicontroller.getOdi);
+router.route("/getodi")
+.get(getController.getOdi);
 
 module.exports = router;

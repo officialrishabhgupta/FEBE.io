@@ -8,7 +8,7 @@ const BatPage=()=> {
   const [search, setSearch] = useState('');
 
   const getData = async ()=>{
-    const response = await fetch("/bat");
+    const response = await fetch("http://localhost:3001/getbat");
     const data = await response.json();
     setState(data);
   }
@@ -72,10 +72,10 @@ const BatPage=()=> {
           ground={item.Ground}
           result={item.Result}
           opposition={item.Opposition}
-          fours={item['4s']}
-          sixes={item['6s']}
-          date={item['Start DateAscending']}
-          matchnumber={item['Match Number']}
+          fours={item.fours}
+          sixes={item.sixes}
+          date={item.date}
+          matchnumber={item.MatchNumber}
           />
         );
       })}

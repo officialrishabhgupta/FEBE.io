@@ -1,8 +1,8 @@
 const express = require("express");
 const router = new express.Router();
-const fieldcontroller = require("../controllers/fieldcontroller");
+const getController = require("../controllers/getController");
 
-router.route("/field")
-.get(fieldcontroller.getField);
+router.route("/getfield")
+.get(getController.getField);
 
 module.exports = router;

@@ -1,0 +1,348 @@
+BF,Dismissal,Ground,Inns,MatchNumber,Mins,Opposition,Pos,Result,Runs,SR,_id,date,fours,sixes
+-,lbw,Chandigarh,1,Test # 1156,92,v Sri Lanka,6,Won,11,-,62230cc580fe3a73dbcd290e,23-Nov-90,-,0
+118,caught,Kolkata,1,Test # 1211,158,v England,4,Won,50,42.37,62230cc580fe3a73dbcd290f,29-Jan-93,6,0
+19,not out,Kolkata,4,Test # 1211,17,v England,4,Won,9,47.36,62230cc580fe3a73dbcd2910,29-Jan-93,2,0
+296,caught,Chennai,1,Test # 1213,361,v England,4,Won,165,55.74,62230cc580fe3a73dbcd2911,11-Feb-93,24,1
+213,lbw,Mumbai,2,Test # 1214,285,v England,4,Won,78,36.61,62230cc580fe3a73dbcd2912,19-Feb-93,10,0
+114,caught,Delhi,1,Test # 1218,128,v Zimbabwe,4,Won,62,54.38,62230cc580fe3a73dbcd2913,13-Mar-93,7,0
+52,caught,Colombo (SSC),1,Test # 1228,74,v Sri Lanka,4,Won,28,53.84,62230cc580fe3a73dbcd2914,27-Jul-93,5,0
+161,not out,Colombo (SSC),3,Test # 1228,217,v Sri Lanka,4,Won,104,64.59,62230cc580fe3a73dbcd2915,27-Jul-93,11,1
+224,caught,Lucknow,1,Test # 1244,260,v Sri Lanka,4,Won,142,63.39,62230cc580fe3a73dbcd2916,18-Jan-94,22,0
+140,bowled,Bengaluru,1,Test # 1245,180,v Sri Lanka,4,Won,96,68.57,62230cc580fe3a73dbcd2917,26-Jan-94,15,0
+14,bowled,Ahmedabad,2,Test # 1247,25,v Sri Lanka,4,Won,6,42.85,62230cc580fe3a73dbcd2918,08-Feb-94,1,0
+43,lbw,Mumbai,1,Test # 1274,70,v West Indies,4,Won,34,79.06,62230cc580fe3a73dbcd2919,18-Nov-94,7,0
+130,caught,Mumbai,3,Test # 1274,178,v West Indies,5,Won,85,65.38,62230cc580fe3a73dbcd291a,18-Nov-94,10,1
+4,caught,Bengaluru,2,Test # 1308,7,v New Zealand,4,Won,4,100,62230cc580fe3a73dbcd291b,18-Oct-95,1,0
+0,not out,Bengaluru,4,Test # 1308,3,v New Zealand,4,Won,0,-,62230cc580fe3a73dbcd291c,18-Oct-95,0,0
+11,caught,Delhi,2,Test # 1335,12,v Australia,4,Won,10,90.9,62230cc580fe3a73dbcd291d,10-Oct-96,2,0
+7,bowled,Delhi,4,Test # 1335,6,v Australia,4,Won,0,0,62230cc580fe3a73dbcd291e,10-Oct-96,0,0
+64,caught,Ahmedabad,1,Test # 1338,80,v South Africa,4,Won,42,65.62,62230cc580fe3a73dbcd291f,20-Nov-96,7,0
+33,caught,Ahmedabad,3,Test # 1338,43,v South Africa,4,Won,7,21.21,62230cc580fe3a73dbcd2920,20-Nov-96,1,0
+173,caught,Kanpur,1,Test # 1344,211,v South Africa,4,Won,61,35.26,62230cc580fe3a73dbcd2921,08-Dec-96,4,1
+98,caught,Kanpur,3,Test # 1344,129,v South Africa,5,Won,36,36.73,62230cc580fe3a73dbcd2922,08-Dec-96,4,0
+5,caught,Chennai,1,Test # 1405,7,v Australia,4,Won,4,80,62230cc580fe3a73dbcd2923,06-Mar-98,1,0
+191,not out,Chennai,3,Test # 1405,286,v Australia,4,Won,155,81.15,62230cc580fe3a73dbcd2924,06-Mar-98,14,4
+86,caught,Kolkata,2,Test # 1409,109,v Australia,4,Won,79,91.86,62230cc580fe3a73dbcd2925,18-Mar-98,12,2
+11,lbw,Delhi,1,Test # 1443,13,v Pakistan,4,Won,6,54.54,62230cc580fe3a73dbcd2926,04-Feb-99,1,0
+65,caught,Delhi,3,Test # 1443,99,v Pakistan,4,Won,29,44.61,62230cc580fe3a73dbcd2927,04-Feb-99,4,0
+54,caught,Kanpur,2,Test # 1464,76,v New Zealand,4,Won,15,27.77,62230cc580fe3a73dbcd2928,22-Oct-99,3,0
+39,not out,Kanpur,4,Test # 1464,58,v New Zealand,4,Won,44,112.82,62230cc580fe3a73dbcd2929,22-Oct-99,8,0
+41,caught,Dhaka,2,Test # 1512,63,v Bangladesh,5,Won,18,43.9,62230cc580fe3a73dbcd292a,10-Nov-00,1,0
+-,-,Dhaka,4,Test # 1512,-,v Bangladesh,-,Won,DNB,-,62230cc580fe3a73dbcd292b,10-Nov-00,-,-
+233,caught,Delhi,2,Test # 1515,283,v Zimbabwe,4,Won,122,52.36,62230cc580fe3a73dbcd292c,18-Nov-00,19,0
+39,caught,Delhi,4,Test # 1515,45,v Zimbabwe,4,Won,39,100,62230cc580fe3a73dbcd292d,18-Nov-00,8,0
+18,lbw,Kolkata,2,Test # 1535,25,v Australia,4,Won,10,55.55,62230cc580fe3a73dbcd292e,11-Mar-01,2,0
+23,caught,Kolkata,3,Test # 1535,26,v Australia,4,Won,10,43.47,62230cc580fe3a73dbcd292f,11-Mar-01,2,0
+230,caught,Chennai,2,Test # 1539,346,v Australia,4,Won,126,54.78,62230cc580fe3a73dbcd2930,18-Mar-01,15,2
+17,caught,Chennai,4,Test # 1539,27,v Australia,4,Won,17,100,62230cc580fe3a73dbcd2931,18-Mar-01,3,0
+128,caught,Bulawayo,2,Test # 1548,179,v Zimbabwe,4,Won,74,57.81,62230cc580fe3a73dbcd2932,07-Jun-01,12,0
+49,not out,Bulawayo,4,Test # 1548,41,v Zimbabwe,4,Won,36,73.46,62230cc580fe3a73dbcd2933,07-Jun-01,4,0
+144,caught,Mohali,2,Test # 1574,229,v England,5,Won,88,61.11,62230cc580fe3a73dbcd2934,03-Dec-01,13,0
+-,-,Mohali,4,Test # 1574,-,v England,-,Won,DNB,-,62230cc580fe3a73dbcd2935,03-Dec-01,-,-
+316,caught,Nagpur,2,Test # 1589,440,v Zimbabwe,4,Won,176,55.69,62230cc580fe3a73dbcd2936,21-Feb-02,23,0
+119,lbw,Delhi,2,Test # 1591,124,v Zimbabwe,4,Won,36,30.25,62230cc580fe3a73dbcd2937,28-Feb-02,5,0
+52,lbw,Delhi,4,Test # 1591,78,v Zimbabwe,5,Won,42,80.76,62230cc580fe3a73dbcd2938,28-Feb-02,7,1
+260,lbw,Port of Spain,1,Test # 1599,356,v West Indies,4,Won,117,45,62230cc580fe3a73dbcd2939,19-Apr-02,14,0
+4,lbw,Port of Spain,3,Test # 1599,16,v West Indies,4,Won,0,0,62230cc580fe3a73dbcd293a,19-Apr-02,0,0
+330,lbw,Leeds,1,Test # 1613,434,v England,4,Won,193,58.48,62230cc580fe3a73dbcd293b,22-Aug-02,19,3
+88,caught,Mumbai,1,Test # 1616,96,v West Indies,4,Won,35,39.77,62230cc580fe3a73dbcd293c,09-Oct-02,5,0
+113,bowled,Chennai,2,Test # 1618,156,v West Indies,4,Won,43,38.05,62230cc580fe3a73dbcd293d,17-Oct-02,5,0
+20,not out,Chennai,4,Test # 1618,15,v West Indies,4,Won,16,80,62230cc580fe3a73dbcd293e,17-Oct-02,0,0
+6,caught,Adelaide,2,Test # 1673,15,v Australia,4,Won,1,16.66,62230cc580fe3a73dbcd293f,12-Dec-03,0,0
+59,lbw,Adelaide,4,Test # 1673,79,v Australia,4,Won,37,62.71,62230cc580fe3a73dbcd2940,12-Dec-03,5,0
+348,not out,Multan,1,Test # 1693,493,v Pakistan,4,Won,194,55.74,62230cc580fe3a73dbcd2941,28-Mar-04,21,0
+3,caught,Rawalpindi,2,Test # 1697,6,v Pakistan,4,Won,1,33.33,62230cc580fe3a73dbcd2942,13-Apr-04,0,0
+35,caught,Mumbai,1,Test # 1720,43,v Australia,4,Won,5,14.28,62230cc580fe3a73dbcd2943,03-Nov-04,0,0
+83,caught,Mumbai,3,Test # 1720,120,v Australia,4,Won,55,66.26,62230cc580fe3a73dbcd2944,03-Nov-04,6,1
+54,bowled,Kolkata,2,Test # 1724,82,v South Africa,4,Won,20,37.03,62230cc580fe3a73dbcd2945,28-Nov-04,3,0
+64,not out,Kolkata,4,Test # 1724,73,v South Africa,4,Won,32,50,62230cc580fe3a73dbcd2946,28-Nov-04,3,1
+379,not out,Dhaka,2,Test # 1725,552,v Bangladesh,4,Won,248,65.43,62230cc580fe3a73dbcd2947,10-Dec-04,35,0
+55,lbw,Chittagong,1,Test # 1727,79,v Bangladesh,4,Won,36,65.45,62230cc580fe3a73dbcd2948,17-Dec-04,6,0
+102,caught,Kolkata,1,Test # 1741,147,v Pakistan,4,Won,52,50.98,62230cc580fe3a73dbcd2949,16-Mar-05,9,0
+91,caught,Kolkata,3,Test # 1741,117,v Pakistan,4,Won,52,57.14,62230cc580fe3a73dbcd294a,16-Mar-05,9,0
+196,lbw,Delhi,1,Test # 1776,310,v Sri Lanka,4,Won,109,55.61,62230cc580fe3a73dbcd294b,10-Dec-05,14,1
+28,lbw,Delhi,3,Test # 1776,42,v Sri Lanka,4,Won,16,57.14,62230cc580fe3a73dbcd294c,10-Dec-05,3,0
+66,caught,Ahmedabad,1,Test # 1778,85,v Sri Lanka,4,Won,23,34.84,62230cc580fe3a73dbcd294d,18-Dec-05,2,0
+29,lbw,Ahmedabad,3,Test # 1778,40,v Sri Lanka,4,Won,19,65.51,62230cc580fe3a73dbcd294e,18-Dec-05,3,0
+15,caught,Mohali,2,Test # 1788,20,v England,4,Won,4,26.66,62230cc580fe3a73dbcd294f,09-Mar-06,0,0
+-,-,Mohali,4,Test # 1788,-,v England,-,Won,DNB,-,62230cc580fe3a73dbcd2950,09-Mar-06,-,-
+89,caught,Johannesburg,1,Test # 1823,113,v South Africa,4,Won,44,49.43,62230cc580fe3a73dbcd2951,15-Dec-06,7,0
+22,bowled,Johannesburg,3,Test # 1823,43,v South Africa,4,Won,14,63.63,62230cc580fe3a73dbcd2952,15-Dec-06,3,0
+226,not out,Dhaka,1,Test # 1833,354,v Bangladesh,4,Won,122,53.98,62230cc580fe3a73dbcd2953,25-May-07,8,1
+197,lbw,Nottingham,2,Test # 1841,259,v England,4,Won,91,46.19,62230cc580fe3a73dbcd2954,27-Jul-07,12,0
+15,caught,Nottingham,4,Test # 1841,17,v England,4,Won,1,6.66,62230cc580fe3a73dbcd2955,27-Jul-07,0,0
+1,run out,Delhi,2,Test # 1849,2,v Pakistan,4,Won,1,100,62230cc580fe3a73dbcd2956,22-Nov-07,0,0
+110,not out,Delhi,4,Test # 1849,178,v Pakistan,4,Won,56,50.9,62230cc580fe3a73dbcd2957,22-Nov-07,9,0
+128,lbw,Perth,1,Test # 1862,175,v Australia,4,Won,71,55.46,62230cc580fe3a73dbcd2958,16-Jan-08,9,0
+25,lbw,Perth,3,Test # 1862,33,v Australia,5,Won,13,52,62230cc580fe3a73dbcd2959,16-Jan-08,2,0
+3,lbw,Galle,1,Test # 1884,5,v Sri Lanka,4,Won,5,166.66,62230cc580fe3a73dbcd295a,31-Jul-08,1,0
+42,caught,Galle,3,Test # 1884,54,v Sri Lanka,4,Won,31,73.8,62230cc580fe3a73dbcd295b,31-Jul-08,5,0
+111,caught,Mohali,1,Test # 1889,186,v Australia,4,Won,88,79.27,62230cc580fe3a73dbcd295c,17-Oct-08,10,0
+12,not out,Mohali,3,Test # 1889,16,v Australia,5,Won,10,83.33,62230cc580fe3a73dbcd295d,17-Oct-08,1,0
+188,lbw,Nagpur,1,Test # 1892,274,v Australia,4,Won,109,57.97,62230cc580fe3a73dbcd295e,06-Nov-08,12,0
+55,run out,Nagpur,3,Test # 1892,90,v Australia,4,Won,12,21.81,62230cc580fe3a73dbcd295f,06-Nov-08,1,0
+48,caught,Chennai,2,Test # 1898,90,v England,4,Won,37,77.08,62230cc580fe3a73dbcd2960,11-Dec-08,4,1
+196,not out,Chennai,4,Test # 1898,317,v England,4,Won,103,52.55,62230cc580fe3a73dbcd2961,11-Dec-08,9,0
+260,caught,Hamilton,2,Test # 1915,397,v New Zealand,4,Won,160,61.53,62230cc580fe3a73dbcd2962,18-Mar-09,26,0
+-,-,Hamilton,4,Test # 1915,-,v New Zealand,-,Won,DNB,-,62230cc580fe3a73dbcd2963,18-Mar-09,-,-
+91,caught,Kanpur,1,Test # 1935,122,v Sri Lanka,4,Won,40,43.95,62230cc580fe3a73dbcd2964,24-Nov-09,0,1
+103,bowled,Mumbai (BS),2,Test # 1937,139,v Sri Lanka,4,Won,53,51.45,62230cc580fe3a73dbcd2965,02-Dec-09,6,0
+166,not out,Chittagong,1,Test # 1949,246,v Bangladesh,4,Won,105,63.25,62230cc580fe3a73dbcd2966,17-Jan-10,11,2
+26,lbw,Chittagong,3,Test # 1949,47,v Bangladesh,5,Won,16,61.53,62230cc580fe3a73dbcd2967,17-Jan-10,2,0
+182,caught,Dhaka,2,Test # 1950,259,v Bangladesh,4,Won,143,78.57,62230cc580fe3a73dbcd2968,24-Jan-10,13,1
+-,-,Dhaka,4,Test # 1950,-,v Bangladesh,-,Won,DNB,-,62230cc580fe3a73dbcd2969,24-Jan-10,-,-
+206,caught,Kolkata,2,Test # 1952,266,v South Africa,4,Won,106,51.45,62230cc580fe3a73dbcd296a,14-Feb-10,12,0
+72,caught,Colombo (PSS),2,Test # 1968,88,v Sri Lanka,4,Won,41,56.94,62230cc580fe3a73dbcd296b,03-Aug-10,5,0
+122,caught,Colombo (PSS),4,Test # 1968,186,v Sri Lanka,4,Won,54,44.26,62230cc580fe3a73dbcd296c,03-Aug-10,3,0
+189,lbw,Mohali,2,Test # 1972,251,v Australia,5,Won,98,51.85,62230cc580fe3a73dbcd296d,01-Oct-10,13,0
+64,caught,Mohali,4,Test # 1972,106,v Australia,4,Won,38,59.37,62230cc580fe3a73dbcd296e,01-Oct-10,5,0
+363,bowled,Bengaluru,2,Test # 1973,547,v Australia,4,Won,214,58.95,62230cc580fe3a73dbcd296f,09-Oct-10,22,2
+77,not out,Bengaluru,4,Test # 1973,125,v Australia,4,Won,53,68.83,62230cc580fe3a73dbcd2970,09-Oct-10,5,2
+129,caught,Nagpur,2,Test # 1978,162,v New Zealand,4,Won,61,47.28,62230cc580fe3a73dbcd2971,20-Nov-10,8,0
+22,caught,Durban,1,Test # 1987,42,v South Africa,4,Won,13,59.09,62230cc580fe3a73dbcd2972,26-Dec-10,3,0
+10,caught,Durban,3,Test # 1987,22,v South Africa,4,Won,6,60,62230cc580fe3a73dbcd2973,26-Dec-10,1,0
+18,lbw,Delhi,2,Test # 2015,25,v West Indies,4,Won,7,38.88,62230cc580fe3a73dbcd2974,06-Nov-11,1,0
+148,lbw,Delhi,4,Test # 2015,200,v West Indies,4,Won,76,51.35,62230cc580fe3a73dbcd2975,06-Nov-11,10,0
+71,caught,Kolkata,1,Test # 2017,74,v West Indies,4,Won,38,53.52,62230cc580fe3a73dbcd2976,14-Nov-11,5,0
+62,bowled,Hyderabad (Deccan),1,Test # 2054,86,v New Zealand,4,Won,19,30.64,62230cc580fe3a73dbcd2977,23-Aug-12,2,0
+50,bowled,Bengaluru,2,Test # 2055,61,v New Zealand,4,Won,17,34,62230cc580fe3a73dbcd2978,31-Aug-12,3,0
+34,bowled,Bengaluru,4,Test # 2055,78,v New Zealand,4,Won,27,79.41,62230cc580fe3a73dbcd2979,31-Aug-12,5,0
+18,caught,Ahmedabad,1,Test # 2058,25,v England,4,Won,13,72.22,62230cc580fe3a73dbcd297a,15-Nov-12,2,0
+-,-,Ahmedabad,4,Test # 2058,-,v England,-,Won,DNB,-,62230cc580fe3a73dbcd297b,15-Nov-12,-,-
+159,bowled,Chennai,2,Test # 2074,257,v Australia,4,Won,81,50.94,62230cc580fe3a73dbcd297c,22-Feb-13,7,0
+10,not out,Chennai,4,Test # 2074,10,v Australia,4,Won,13,130,62230cc580fe3a73dbcd297d,22-Feb-13,0,2
+15,caught,Hyderabad (Deccan),2,Test # 2076,32,v Australia,4,Won,7,46.66,62230cc580fe3a73dbcd297e,02-Mar-13,1,0
+81,caught,Mohali,2,Test # 2081,125,v Australia,4,Won,37,45.67,62230cc580fe3a73dbcd297f,14-Mar-13,5,0
+23,run out,Mohali,4,Test # 2081,71,v Australia,4,Won,21,91.3,62230cc580fe3a73dbcd2980,14-Mar-13,2,0
+53,lbw,Delhi,2,Test # 2085,99,v Australia,4,Won,32,60.37,62230cc580fe3a73dbcd2981,22-Mar-13,5,0
+5,lbw,Delhi,4,Test # 2085,8,v Australia,4,Won,1,20,62230cc580fe3a73dbcd2982,22-Mar-13,0,0
+24,lbw,Kolkata,2,Test # 2101,41,v West Indies,4,Won,10,41.66,62230cc580fe3a73dbcd2983,06-Nov-13,2,0
+118,caught,Mumbai,2,Test # 2102,150,v West Indies,4,Won,74,62.71,62230cc580fe3a73dbcd2984,14-Nov-13,12,0
+1,caught,Christchurch,2,Test # 1136,1,v New Zealand,6,Loss,0,0,62230cc580fe3a73dbcd2985,02-Feb-90,0,0
+44,caught,Christchurch,3,Test # 1136,50,v New Zealand,6,Loss,24,54.54,62230cc580fe3a73dbcd2986,02-Feb-90,3,0
+19,bowled,"Lord's",2,Test # 1148,30,v England,6,Loss,10,52.63,62230cc580fe3a73dbcd2987,26-Jul-90,1,0
+65,caught,"Lord's",4,Test # 1148,93,v England,6,Loss,27,41.53,62230cc580fe3a73dbcd2988,26-Jul-90,4,0
+42,bowled,Brisbane,1,Test # 1177,47,v Australia,6,Loss,16,38.09,62230cc580fe3a73dbcd2989,29-Nov-91,3,0
+25,caught,Brisbane,3,Test # 1177,36,v Australia,6,Loss,7,28,62230cc580fe3a73dbcd298a,29-Nov-91,1,0
+23,caught,Melbourne,1,Test # 1180,33,v Australia,7,Loss,15,65.21,62230cc580fe3a73dbcd298b,26-Dec-91,0,0
+107,caught,Melbourne,3,Test # 1180,122,v Australia,7,Loss,40,37.38,62230cc580fe3a73dbcd298c,26-Dec-91,5,0
+8,lbw,Adelaide,2,Test # 1184,20,v Australia,6,Loss,6,75,62230cc580fe3a73dbcd298d,25-Jan-92,1,0
+29,lbw,Adelaide,4,Test # 1184,36,v Australia,4,Loss,17,58.62,62230cc580fe3a73dbcd298e,25-Jan-92,2,0
+161,caught,Perth,2,Test # 1186,228,v Australia,4,Loss,114,70.8,62230cc580fe3a73dbcd298f,01-Feb-92,16,0
+9,caught,Perth,4,Test # 1186,12,v Australia,4,Loss,5,55.55,62230cc580fe3a73dbcd2990,01-Feb-92,1,0
+17,caught,Port Elizabeth,1,Test # 1206,27,v South Africa,4,Loss,6,35.29,62230cc580fe3a73dbcd2991,26-Dec-92,1,0
+1,caught,Port Elizabeth,3,Test # 1206,1,v South Africa,4,Loss,0,0,62230cc580fe3a73dbcd2992,26-Dec-92,0,0
+55,caught,Mohali,2,Test # 1278,72,v West Indies,4,Loss,40,72.72,62230cc580fe3a73dbcd2993,10-Dec-94,9,0
+24,caught,Mohali,4,Test # 1278,38,v West Indies,4,Loss,10,41.66,62230cc580fe3a73dbcd2994,10-Dec-94,2,0
+41,bowled,Birmingham,1,Test # 1327,71,v England,4,Loss,24,58.53,62230cc580fe3a73dbcd2995,06-Jun-96,4,0
+177,caught,Birmingham,3,Test # 1327,263,v England,4,Loss,122,68.92,62230cc580fe3a73dbcd2996,06-Jun-96,19,1
+62,bowled,Kolkata,2,Test # 1341,91,v South Africa,4,Loss,18,29.03,62230cc580fe3a73dbcd2997,27-Nov-96,3,0
+25,caught,Kolkata,4,Test # 1341,28,v South Africa,4,Loss,2,8,62230cc580fe3a73dbcd2998,27-Nov-96,0,0
+45,bowled,Durban,2,Test # 1347,58,v South Africa,4,Loss,15,33.33,62230cc580fe3a73dbcd2999,26-Dec-96,2,0
+25,caught,Durban,4,Test # 1347,32,v South Africa,4,Loss,4,16,62230cc580fe3a73dbcd299a,26-Dec-96,1,0
+254,caught,Cape Town,2,Test # 1349,329,v South Africa,5,Loss,169,66.53,62230cc580fe3a73dbcd299b,02-Jan-97,26,0
+28,caught,Cape Town,4,Test # 1349,38,v South Africa,5,Loss,9,32.14,62230cc580fe3a73dbcd299c,02-Jan-97,1,0
+147,caught,Bridgetown,2,Test # 1363,222,v West Indies,4,Loss,92,62.58,62230cc580fe3a73dbcd299d,27-Mar-97,14,1
+14,caught,Bridgetown,4,Test # 1363,25,v West Indies,4,Loss,4,28.57,62230cc580fe3a73dbcd299e,27-Mar-97,0,0
+207,bowled,Bengaluru,1,Test # 1413,298,v Australia,4,Loss,177,85.5,62230cc580fe3a73dbcd299f,25-Mar-98,29,3
+64,caught,Bengaluru,3,Test # 1413,75,v Australia,4,Loss,31,48.43,62230cc580fe3a73dbcd29a0,25-Mar-98,4,0
+68,caught,Harare,2,Test # 1425,103,v Zimbabwe,5,Loss,34,50,62230cc580fe3a73dbcd29a1,07-Oct-98,3,0
+14,caught,Harare,4,Test # 1425,27,v Zimbabwe,4,Loss,7,50,62230cc580fe3a73dbcd29a2,07-Oct-98,0,0
+72,caught,Wellington,1,Test # 1435,95,v New Zealand,5,Loss,47,65.27,62230cc580fe3a73dbcd29a3,26-Dec-98,7,0
+151,caught,Wellington,3,Test # 1435,200,v New Zealand,5,Loss,113,74.83,62230cc580fe3a73dbcd29a4,26-Dec-98,13,2
+3,caught,Chennai,2,Test # 1442,5,v Pakistan,4,Loss,0,0,62230cc580fe3a73dbcd29a5,28-Jan-99,0,0
+273,caught,Chennai,4,Test # 1442,405,v Pakistan,4,Loss,136,49.81,62230cc580fe3a73dbcd29a6,28-Jan-99,18,0
+1,bowled,Kolkata,2,Test # 1444,2,v Pakistan,5,Loss,0,0,62230cc580fe3a73dbcd29a7,16-Feb-99,0,0
+13,run out,Kolkata,4,Test # 1444,18,v Pakistan,4,Loss,9,69.23,62230cc580fe3a73dbcd29a8,16-Feb-99,1,0
+133,caught,Adelaide,2,Test # 1476,181,v Australia,5,Loss,61,45.86,62230cc580fe3a73dbcd29a9,10-Dec-99,8,0
+5,lbw,Adelaide,4,Test # 1476,6,v Australia,5,Loss,0,0,62230cc580fe3a73dbcd29aa,10-Dec-99,0,0
+191,caught,Melbourne,2,Test # 1479,283,v Australia,4,Loss,116,60.73,62230cc580fe3a73dbcd29ab,26-Dec-99,9,1
+122,lbw,Melbourne,4,Test # 1479,162,v Australia,4,Loss,52,42.62,62230cc580fe3a73dbcd29ac,26-Dec-99,4,0
+53,lbw,Sydney,1,Test # 1481,82,v Australia,4,Loss,45,84.9,62230cc580fe3a73dbcd29ad,02-Jan-00,8,0
+4,caught,Sydney,3,Test # 1481,6,v Australia,4,Loss,4,100,62230cc580fe3a73dbcd29ae,02-Jan-00,1,0
+163,caught,Mumbai,1,Test # 1484,208,v South Africa,4,Loss,97,59.5,62230cc580fe3a73dbcd29af,24-Feb-00,12,2
+11,lbw,Mumbai,3,Test # 1484,20,v South Africa,4,Loss,8,72.72,62230cc580fe3a73dbcd29b0,24-Feb-00,2,0
+76,caught,Bengaluru,1,Test # 1486,120,v South Africa,4,Loss,21,27.63,62230cc580fe3a73dbcd29b1,02-Mar-00,3,0
+53,caught,Bengaluru,3,Test # 1486,76,v South Africa,4,Loss,20,37.73,62230cc580fe3a73dbcd29b2,02-Mar-00,2,0
+114,caught,Mumbai,1,Test # 1531,138,v Australia,4,Loss,76,66.66,62230cc580fe3a73dbcd29b3,27-Feb-01,13,0
+107,caught,Mumbai,3,Test # 1531,153,v Australia,5,Loss,65,60.74,62230cc580fe3a73dbcd29b4,27-Feb-01,11,0
+46,bowled,Harare,1,Test # 1549,78,v Zimbabwe,4,Loss,20,43.47,62230cc580fe3a73dbcd29b5,15-Jun-01,2,1
+135,caught,Harare,3,Test # 1549,185,v Zimbabwe,4,Loss,69,51.11,62230cc580fe3a73dbcd29b6,15-Jun-01,9,0
+184,caught,Bloemfontein,1,Test # 1564,233,v South Africa,4,Loss,155,84.23,62230cc580fe3a73dbcd29b7,03-Nov-01,23,1
+35,caught,Bloemfontein,3,Test # 1564,60,v South Africa,4,Loss,15,42.85,62230cc580fe3a73dbcd29b8,03-Nov-01,2,0
+2,caught,Bridgetown,1,Test # 1601,4,v West Indies,4,Loss,0,0,62230cc580fe3a73dbcd29b9,02-May-02,0,0
+17,lbw,Bridgetown,3,Test # 1601,32,v West Indies,4,Loss,8,47.05,62230cc580fe3a73dbcd29ba,02-May-02,1,0
+63,bowled,Kingston,2,Test # 1604,94,v West Indies,4,Loss,41,65.07,62230cc580fe3a73dbcd29bb,18-May-02,7,0
+139,bowled,Kingston,4,Test # 1604,162,v West Indies,4,Loss,86,61.87,62230cc580fe3a73dbcd29bc,18-May-02,13,0
+61,caught,"Lord's",2,Test # 1610,94,v England,5,Loss,16,26.22,62230cc580fe3a73dbcd29bd,25-Jul-02,2,0
+35,bowled,"Lord's",4,Test # 1610,51,v England,4,Loss,12,34.28,62230cc580fe3a73dbcd29be,25-Jul-02,2,0
+26,lbw,Wellington,1,Test # 1631,47,v New Zealand,4,Loss,8,30.76,62230cc580fe3a73dbcd29bf,12-Dec-02,2,0
+74,bowled,Wellington,3,Test # 1631,120,v New Zealand,4,Loss,51,68.91,62230cc580fe3a73dbcd29c0,12-Dec-02,7,0
+31,caught,Hamilton,1,Test # 1633,40,v New Zealand,4,Loss,9,29.03,62230cc580fe3a73dbcd29c1,19-Dec-02,1,0
+48,bowled,Hamilton,3,Test # 1633,55,v New Zealand,4,Loss,32,66.66,62230cc580fe3a73dbcd29c2,19-Dec-02,5,0
+1,caught,Melbourne,1,Test # 1678,3,v Australia,4,Loss,0,0,62230cc580fe3a73dbcd29c3,26-Dec-03,0,0
+79,caught,Melbourne,3,Test # 1678,107,v Australia,5,Loss,44,55.69,62230cc580fe3a73dbcd29c4,26-Dec-03,5,0
+6,lbw,Lahore,1,Test # 1695,10,v Pakistan,4,Loss,2,33.33,62230cc580fe3a73dbcd29c5,05-Apr-04,0,0
+11,lbw,Lahore,3,Test # 1695,17,v Pakistan,4,Loss,8,72.72,62230cc580fe3a73dbcd29c6,05-Apr-04,1,0
+36,lbw,Nagpur,2,Test # 1718,49,v Australia,4,Loss,8,22.22,62230cc580fe3a73dbcd29c7,26-Oct-04,0,0
+14,caught,Nagpur,4,Test # 1718,18,v Australia,4,Loss,2,14.28,62230cc580fe3a73dbcd29c8,26-Oct-04,0,0
+71,caught,Bengaluru,2,Test # 1743,78,v Pakistan,4,Loss,41,57.74,62230cc580fe3a73dbcd29c9,24-Mar-05,7,0
+98,caught,Bengaluru,4,Test # 1743,140,v Pakistan,4,Loss,16,16.32,62230cc580fe3a73dbcd29ca,24-Mar-05,2,0
+29,bowled,Karachi,2,Test # 1783,49,v Pakistan,4,Loss,23,79.31,62230cc580fe3a73dbcd29cb,29-Jan-06,5,0
+47,bowled,Karachi,4,Test # 1783,74,v Pakistan,4,Loss,26,55.31,62230cc580fe3a73dbcd29cc,29-Jan-06,5,0
+21,caught,Mumbai,2,Test # 1791,33,v England,4,Loss,1,4.76,62230cc580fe3a73dbcd29cd,18-Mar-06,0,0
+57,caught,Mumbai,4,Test # 1791,77,v England,5,Loss,34,59.64,62230cc580fe3a73dbcd29ce,18-Mar-06,5,0
+115,caught,Durban,2,Test # 1825,173,v South Africa,4,Loss,63,54.78,62230cc580fe3a73dbcd29cf,26-Dec-06,11,0
+7,lbw,Durban,4,Test # 1825,13,v South Africa,4,Loss,0,0,62230cc580fe3a73dbcd29d0,26-Dec-06,0,0
+130,caught,Cape Town,1,Test # 1827,187,v South Africa,4,Loss,64,49.23,62230cc580fe3a73dbcd29d1,02-Jan-07,11,0
+62,lbw,Cape Town,3,Test # 1827,88,v South Africa,5,Loss,14,22.58,62230cc580fe3a73dbcd29d2,02-Jan-07,1,0
+77,bowled,Melbourne,2,Test # 1855,113,v Australia,4,Loss,62,80.51,62230cc580fe3a73dbcd29d3,26-Dec-07,7,1
+21,caught,Melbourne,4,Test # 1855,31,v Australia,4,Loss,15,71.42,62230cc580fe3a73dbcd29d4,26-Dec-07,1,0
+243,not out,Sydney,2,Test # 1857,429,v Australia,4,Loss,154,63.37,62230cc580fe3a73dbcd29d5,02-Jan-08,14,1
+16,bowled,Sydney,4,Test # 1857,33,v Australia,4,Loss,12,75,62230cc580fe3a73dbcd29d6,02-Jan-08,3,0
+46,bowled,Colombo (SSC),2,Test # 1882,60,v Sri Lanka,4,Loss,27,58.69,62230cc580fe3a73dbcd29d7,23-Jul-08,3,0
+30,caught,Colombo (SSC),3,Test # 1882,42,v Sri Lanka,4,Loss,12,40,62230cc580fe3a73dbcd29d8,23-Jul-08,1,0
+12,lbw,Colombo (PSS),1,Test # 1886,18,v Sri Lanka,4,Loss,6,50,62230cc580fe3a73dbcd29d9,08-Aug-08,0,0
+22,lbw,Colombo (PSS),3,Test # 1886,26,v Sri Lanka,6,Loss,14,63.63,62230cc580fe3a73dbcd29da,08-Aug-08,1,0
+16,caught,Nagpur,2,Test # 1951,25,v South Africa,4,Loss,7,43.75,62230cc580fe3a73dbcd29db,06-Feb-10,1,0
+179,bowled,Nagpur,3,Test # 1951,275,v South Africa,4,Loss,100,55.86,62230cc580fe3a73dbcd29dc,06-Feb-10,13,0
+21,lbw,Galle,2,Test # 1964,29,v Sri Lanka,4,Loss,8,38.09,62230cc580fe3a73dbcd29dd,18-Jul-10,1,0
+142,lbw,Galle,3,Test # 1964,168,v Sri Lanka,4,Loss,84,59.15,62230cc580fe3a73dbcd29de,18-Jul-10,11,1
+34,lbw,Centurion,1,Test # 1985,61,v South Africa,4,Loss,36,105.88,62230cc580fe3a73dbcd29df,16-Dec-10,8,0
+241,not out,Centurion,3,Test # 1985,327,v South Africa,5,Loss,111,46.05,62230cc580fe3a73dbcd29e0,16-Dec-10,13,1
+58,caught,"Lord's",2,Test # 2000,90,v England,4,Loss,34,58.62,62230cc580fe3a73dbcd29e1,21-Jul-11,6,0
+68,lbw,"Lord's",4,Test # 2000,84,v England,5,Loss,12,17.64,62230cc580fe3a73dbcd29e2,21-Jul-11,1,0
+34,caught,Nottingham,2,Test # 2001,33,v England,4,Loss,16,47.05,62230cc580fe3a73dbcd29e3,29-Jul-11,3,0
+86,lbw,Nottingham,4,Test # 2001,136,v England,4,Loss,56,65.11,62230cc580fe3a73dbcd29e4,29-Jul-11,8,0
+8,caught,Birmingham,1,Test # 2003,10,v England,4,Loss,1,12.5,62230cc580fe3a73dbcd29e5,10-Aug-11,0,0
+60,run out,Birmingham,3,Test # 2003,92,v England,4,Loss,40,66.66,62230cc580fe3a73dbcd29e6,10-Aug-11,8,0
+34,caught,The Oval,2,Test # 2004,65,v England,4,Loss,23,67.64,62230cc580fe3a73dbcd29e7,18-Aug-11,4,0
+172,lbw,The Oval,3,Test # 2004,235,v England,4,Loss,91,52.9,62230cc580fe3a73dbcd29e8,18-Aug-11,11,0
+98,bowled,Melbourne,2,Test # 2025,151,v Australia,4,Loss,73,74.48,62230cc580fe3a73dbcd29e9,26-Dec-11,8,1
+46,caught,Melbourne,4,Test # 2025,73,v Australia,4,Loss,32,69.56,62230cc580fe3a73dbcd29ea,26-Dec-11,4,0
+89,bowled,Sydney,1,Test # 2027,133,v Australia,4,Loss,41,46.06,62230cc580fe3a73dbcd29eb,03-Jan-12,8,0
+141,caught,Sydney,3,Test # 2027,213,v Australia,4,Loss,80,56.73,62230cc580fe3a73dbcd29ec,03-Jan-12,9,0
+25,lbw,Perth,1,Test # 2029,46,v Australia,4,Loss,15,60,62230cc580fe3a73dbcd29ed,13-Jan-12,3,0
+16,lbw,Perth,3,Test # 2029,22,v Australia,4,Loss,8,50,62230cc580fe3a73dbcd29ee,13-Jan-12,1,0
+69,caught,Adelaide,2,Test # 2031,94,v Australia,4,Loss,25,36.23,62230cc580fe3a73dbcd29ef,24-Jan-12,3,0
+34,caught,Adelaide,4,Test # 2031,46,v Australia,4,Loss,13,38.23,62230cc580fe3a73dbcd29f0,24-Jan-12,2,0
+12,bowled,Mumbai,1,Test # 2062,14,v England,4,Loss,8,66.66,62230cc580fe3a73dbcd29f1,23-Nov-12,1,0
+19,lbw,Mumbai,3,Test # 2062,28,v England,4,Loss,8,42.1,62230cc580fe3a73dbcd29f2,23-Nov-12,2,0
+155,caught,Kolkata,1,Test # 2065,202,v England,4,Loss,76,49.03,62230cc580fe3a73dbcd29f3,05-Dec-12,13,0
+6,caught,Kolkata,3,Test # 2065,17,v England,4,Loss,5,83.33,62230cc580fe3a73dbcd29f4,05-Dec-12,1,0
+24,bowled,Karachi,2,Test # 1127,28,v Pakistan,6,Drawn,15,62.5,62230cc580fe3a73dbcd29f5,15-Nov-89,2,0
+-,-,Karachi,4,Test # 1127,-,v Pakistan,-,Drawn,DNB,-,62230cc580fe3a73dbcd29f6,15-Nov-89,-,-
+172,lbw,Faisalabad,1,Test # 1128,254,v Pakistan,6,Drawn,59,34.3,62230cc580fe3a73dbcd29f7,23-Nov-89,4,0
+16,run out,Faisalabad,3,Test # 1128,24,v Pakistan,6,Drawn,8,50,62230cc580fe3a73dbcd29f8,23-Nov-89,1,0
+90,bowled,Lahore,1,Test # 1130,124,v Pakistan,7,Drawn,41,45.55,62230cc580fe3a73dbcd29f9,01-Dec-89,5,0
+51,lbw,Sialkot,1,Test # 1132,74,v Pakistan,6,Drawn,35,68.62,62230cc580fe3a73dbcd29fa,09-Dec-89,5,0
+134,caught,Sialkot,3,Test # 1132,193,v Pakistan,6,Drawn,57,42.53,62230cc580fe3a73dbcd29fb,09-Dec-89,6,0
+266,caught,Napier,1,Test # 1138,324,v New Zealand,6,Drawn,88,33.08,62230cc580fe3a73dbcd29fc,09-Feb-90,5,0
+13,caught,Auckland,2,Test # 1139,15,v New Zealand,6,Drawn,5,38.46,62230cc580fe3a73dbcd29fd,22-Feb-90,1,0
+-,-,Auckland,4,Test # 1139,-,v New Zealand,-,Drawn,DNB,-,62230cc580fe3a73dbcd29fe,22-Feb-90,-,-
+136,caught,Manchester,2,Test # 1149,216,v England,6,Drawn,68,50,62230cc580fe3a73dbcd29ff,09-Aug-90,8,0
+189,not out,Manchester,4,Test # 1149,225,v England,6,Drawn,119,62.96,62230cc580fe3a73dbcd2a00,09-Aug-90,17,0
+30,caught,The Oval,1,Test # 1150,39,v England,7,Drawn,21,70,62230cc580fe3a73dbcd2a01,23-Aug-90,3,0
+213,not out,Sydney,2,Test # 1181,298,v Australia,6,Drawn,148,69.48,62230cc580fe3a73dbcd2a02,02-Jan-92,14,0
+3,caught,Harare,2,Test # 1197,4,v Zimbabwe,4,Drawn,0,0,62230cc580fe3a73dbcd2a03,18-Oct-92,0,0
+24,run out,Durban,2,Test # 1200,35,v South Africa,4,Drawn,11,45.83,62230cc580fe3a73dbcd2a04,13-Nov-92,1,0
+270,caught,Johannesburg,2,Test # 1201,373,v South Africa,4,Drawn,111,41.11,62230cc580fe3a73dbcd2a05,26-Nov-92,19,0
+5,lbw,Johannesburg,4,Test # 1201,6,v South Africa,4,Drawn,1,20,62230cc580fe3a73dbcd2a06,26-Nov-92,0,0
+208,caught,Cape Town,2,Test # 1209,272,v South Africa,5,Drawn,73,35.09,62230cc580fe3a73dbcd2a07,02-Jan-93,8,1
+-,-,Cape Town,4,Test # 1209,-,v South Africa,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a08,02-Jan-93,-,-
+-,-,Kandy,-,Test # 1226,-,v Sri Lanka,-,Drawn,TDNB,-,62230cc580fe3a73dbcd2a09,17-Jul-93,-,-
+152,caught,Colombo (PSS),2,Test # 1229,202,v Sri Lanka,4,Drawn,71,46.71,62230cc580fe3a73dbcd2a0a,04-Aug-93,10,0
+47,caught,Hamilton,2,Test # 1255,55,v New Zealand,4,Drawn,43,91.48,62230cc580fe3a73dbcd2a0b,19-Mar-94,7,0
+42,not out,Hamilton,4,Test # 1255,57,v New Zealand,4,Drawn,11,26.19,62230cc580fe3a73dbcd2a0c,19-Mar-94,0,0
+322,caught,Nagpur,1,Test # 1277,414,v West Indies,4,Drawn,179,55.59,62230cc580fe3a73dbcd2a0d,01-Dec-94,24,1
+138,caught,Nagpur,3,Test # 1277,180,v West Indies,4,Drawn,54,39.13,62230cc580fe3a73dbcd2a0e,01-Dec-94,3,0
+88,not out,Chennai,1,Test # 1309,98,v New Zealand,4,Drawn,52,59.09,62230cc580fe3a73dbcd2a0f,25-Oct-95,5,0
+8,bowled,Cuttack,1,Test # 1310,8,v New Zealand,4,Drawn,2,25,62230cc580fe3a73dbcd2a10,08-Nov-95,0,0
+59,bowled,"Lord's",2,Test # 1328,81,v England,4,Drawn,31,52.54,62230cc580fe3a73dbcd2a11,20-Jun-96,5,0
+360,caught,Nottingham,1,Test # 1329,462,v England,4,Drawn,177,49.16,62230cc580fe3a73dbcd2a12,04-Jul-96,26,0
+97,caught,Nottingham,3,Test # 1329,111,v England,4,Drawn,74,76.28,62230cc580fe3a73dbcd2a13,04-Jul-96,11,1
+55,caught,Johannesburg,1,Test # 1350,72,v South Africa,4,Drawn,35,63.63,62230cc580fe3a73dbcd2a14,16-Jan-97,7,0
+11,caught,Johannesburg,3,Test # 1350,13,v South Africa,4,Drawn,9,81.81,62230cc580fe3a73dbcd2a15,16-Jan-97,2,0
+30,bowled,Kingston,2,Test # 1357,40,v West Indies,4,Drawn,7,23.33,62230cc580fe3a73dbcd2a16,06-Mar-97,1,0
+36,not out,Kingston,4,Test # 1357,43,v West Indies,4,Drawn,15,41.66,62230cc580fe3a73dbcd2a17,06-Mar-97,1,0
+233,run out,Port of Spain,2,Test # 1361,306,v West Indies,4,Drawn,88,37.76,62230cc580fe3a73dbcd2a18,14-Mar-97,9,0
+-,-,"St John's",2,Test # 1364,-,v West Indies,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a19,04-Apr-97,-,-
+231,caught,Georgetown,1,Test # 1365,287,v West Indies,4,Drawn,83,35.93,62230cc580fe3a73dbcd2a1a,17-Apr-97,9,0
+247,caught,Colombo (RPS),1,Test # 1374,292,v Sri Lanka,4,Drawn,143,57.89,62230cc580fe3a73dbcd2a1b,02-Aug-97,20,0
+266,caught,Colombo (SSC),2,Test # 1376,397,v Sri Lanka,4,Drawn,139,52.25,62230cc580fe3a73dbcd2a1c,09-Aug-97,16,0
+44,caught,Colombo (SSC),4,Test # 1376,43,v Sri Lanka,4,Drawn,8,18.18,62230cc580fe3a73dbcd2a1d,09-Aug-97,1,0
+93,caught,Mohali,2,Test # 1385,129,v Sri Lanka,4,Drawn,23,24.73,62230cc580fe3a73dbcd2a1e,19-Nov-97,2,0
+20,bowled,Nagpur,1,Test # 1387,38,v Sri Lanka,4,Drawn,15,75,62230cc580fe3a73dbcd2a1f,26-Nov-97,1,1
+244,bowled,Mumbai,1,Test # 1390,320,v Sri Lanka,5,Drawn,148,60.65,62230cc580fe3a73dbcd2a20,03-Dec-97,20,3
+16,caught,Mumbai,3,Test # 1390,28,v Sri Lanka,4,Drawn,13,81.25,62230cc580fe3a73dbcd2a21,03-Dec-97,1,0
+93,lbw,Hamilton,2,Test # 1438,118,v New Zealand,4,Drawn,67,72.04,62230cc580fe3a73dbcd2a22,02-Jan-99,9,1
+-,-,Hamilton,4,Test # 1438,-,v New Zealand,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a23,02-Jan-99,-,-
+54,caught,Colombo (SSC),1,Test # 1445,94,v Sri Lanka,4,Drawn,53,98.14,62230cc580fe3a73dbcd2a24,24-Feb-99,10,0
+235,not out,Colombo (SSC),3,Test # 1445,308,v Sri Lanka,4,Drawn,124,52.76,62230cc580fe3a73dbcd2a25,24-Feb-99,10,1
+34,bowled,Mohali,1,Test # 1462,61,v New Zealand,4,Drawn,18,52.94,62230cc580fe3a73dbcd2a26,10-Oct-99,3,0
+248,not out,Mohali,3,Test # 1462,397,v New Zealand,4,Drawn,126,50.8,62230cc580fe3a73dbcd2a27,10-Oct-99,14,0
+344,caught,Ahmedabad,1,Test # 1465,494,v New Zealand,4,Drawn,217,63.08,62230cc580fe3a73dbcd2a28,29-Oct-99,29,0
+10,bowled,Ahmedabad,3,Test # 1465,16,v New Zealand,2,Drawn,15,150,62230cc580fe3a73dbcd2a29,29-Oct-99,3,0
+281,not out,Nagpur,1,Test # 1517,392,v Zimbabwe,4,Drawn,201,71.53,62230cc580fe3a73dbcd2a2a,25-Nov-00,27,0
+4,caught,Port Elizabeth,2,Test # 1569,10,v South Africa,4,Drawn,1,25,62230cc580fe3a73dbcd2a2b,16-Nov-01,0,0
+45,not out,Port Elizabeth,4,Test # 1569,54,v South Africa,4,Drawn,22,48.88,62230cc580fe3a73dbcd2a2c,16-Nov-01,4,0
+197,caught,Ahmedabad,2,Test # 1575,254,v England,4,Drawn,103,52.28,62230cc580fe3a73dbcd2a2d,11-Dec-01,12,1
+81,caught,Ahmedabad,4,Test # 1575,87,v England,4,Drawn,26,32.09,62230cc580fe3a73dbcd2a2e,11-Dec-01,4,0
+198,stumped,Bengaluru,2,Test # 1578,263,v England,4,Drawn,90,45.45,62230cc580fe3a73dbcd2a2f,19-Dec-01,13,0
+136,lbw,Georgetown,2,Test # 1598,191,v West Indies,4,Drawn,79,58.08,62230cc580fe3a73dbcd2a30,11-Apr-02,13,0
+1,caught,"St John's",1,Test # 1602,2,v West Indies,4,Drawn,0,0,62230cc580fe3a73dbcd2a31,10-May-02,0,0
+68,bowled,Nottingham,1,Test # 1612,90,v England,4,Drawn,34,50,62230cc580fe3a73dbcd2a32,08-Aug-02,6,0
+113,bowled,Nottingham,3,Test # 1612,160,v England,4,Drawn,92,81.41,62230cc580fe3a73dbcd2a33,08-Aug-02,17,0
+89,lbw,The Oval,2,Test # 1614,114,v England,4,Drawn,54,60.67,62230cc580fe3a73dbcd2a34,05-Sep-02,10,0
+65,caught,Kolkata,1,Test # 1622,85,v West Indies,4,Drawn,36,55.38,62230cc580fe3a73dbcd2a35,30-Oct-02,7,0
+298,caught,Kolkata,3,Test # 1622,419,v West Indies,4,Drawn,176,59.06,62230cc580fe3a73dbcd2a36,30-Oct-02,26,0
+38,caught,Ahmedabad,1,Test # 1660,54,v New Zealand,4,Drawn,8,21.05,62230cc580fe3a73dbcd2a37,08-Oct-03,1,0
+15,caught,Ahmedabad,3,Test # 1660,19,v New Zealand,4,Drawn,7,46.66,62230cc580fe3a73dbcd2a38,08-Oct-03,0,0
+175,caught,Mohali,2,Test # 1662,238,v New Zealand,4,Drawn,55,31.42,62230cc580fe3a73dbcd2a39,16-Oct-03,6,0
+10,bowled,Mohali,3,Test # 1662,15,v New Zealand,4,Drawn,1,10,62230cc580fe3a73dbcd2a3a,16-Oct-03,0,0
+3,lbw,Brisbane,2,Test # 1671,3,v Australia,4,Drawn,0,0,62230cc580fe3a73dbcd2a3b,04-Dec-03,0,0
+-,-,Brisbane,4,Test # 1671,-,v Australia,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a3c,04-Dec-03,-,-
+436,not out,Sydney,1,Test # 1680,613,v Australia,4,Drawn,241,55.27,62230cc580fe3a73dbcd2a3d,02-Jan-04,33,0
+89,not out,Sydney,3,Test # 1680,108,v Australia,4,Drawn,60,67.41,62230cc580fe3a73dbcd2a3e,02-Jan-04,5,0
+18,bowled,Kanpur,2,Test # 1722,21,v South Africa,4,Drawn,3,16.66,62230cc580fe3a73dbcd2a3f,20-Nov-04,0,0
+202,caught,Mohali,2,Test # 1738,301,v Pakistan,4,Drawn,94,46.53,62230cc580fe3a73dbcd2a40,08-Mar-05,11,0
+-,-,Mohali,4,Test # 1738,-,v Pakistan,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a41,08-Mar-05,-,-
+126,lbw,Chennai,1,Test # 1775,157,v Sri Lanka,4,Drawn,22,17.46,62230cc580fe3a73dbcd2a42,02-Dec-05,2,0
+-,-,Lahore,2,Test # 1781,-,v Pakistan,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a43,13-Jan-06,-,-
+33,caught,Faisalabad,2,Test # 1782,64,v Pakistan,4,Drawn,14,42.42,62230cc580fe3a73dbcd2a44,21-Jan-06,3,0
+-,-,Faisalabad,4,Test # 1782,-,v Pakistan,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a45,21-Jan-06,-,-
+45,lbw,Nagpur,2,Test # 1785,84,v England,4,Drawn,16,35.55,62230cc580fe3a73dbcd2a46,01-Mar-06,2,0
+19,not out,Nagpur,4,Test # 1785,38,v England,6,Drawn,28,147.36,62230cc580fe3a73dbcd2a47,01-Mar-06,5,0
+169,caught,Chittagong,1,Test # 1832,274,v Bangladesh,4,Drawn,101,59.76,62230cc580fe3a73dbcd2a48,18-May-07,9,0
+50,bowled,Chittagong,3,Test # 1832,69,v Bangladesh,4,Drawn,31,62,62230cc580fe3a73dbcd2a49,18-May-07,2,0
+78,lbw,"Lord's",2,Test # 1840,104,v England,4,Drawn,37,47.43,62230cc580fe3a73dbcd2a4a,19-Jul-07,6,0
+35,lbw,"Lord's",4,Test # 1840,42,v England,4,Drawn,16,45.71,62230cc580fe3a73dbcd2a4b,19-Jul-07,3,0
+192,caught,The Oval,1,Test # 1842,298,v England,4,Drawn,82,42.7,62230cc580fe3a73dbcd2a4c,09-Aug-07,11,0
+11,bowled,The Oval,3,Test # 1842,13,v England,4,Drawn,1,9.09,62230cc580fe3a73dbcd2a4d,09-Aug-07,0,0
+109,bowled,Kolkata,1,Test # 1850,146,v Pakistan,4,Drawn,82,75.22,62230cc580fe3a73dbcd2a4e,30-Nov-07,12,0
+-,-,Kolkata,3,Test # 1850,-,v Pakistan,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a4f,30-Nov-07,-,-
+205,caught,Adelaide,1,Test # 1863,342,v Australia,4,Drawn,153,74.63,62230cc580fe3a73dbcd2a50,24-Jan-08,13,3
+36,run out,Adelaide,3,Test # 1863,67,v Australia,4,Drawn,13,36.11,62230cc580fe3a73dbcd2a51,24-Jan-08,1,0
+5,caught,Chennai,2,Test # 1870,9,v South Africa,4,Drawn,0,0,62230cc580fe3a73dbcd2a52,26-Mar-08,0,0
+18,caught,Bengaluru,2,Test # 1887,26,v Australia,4,Drawn,13,72.22,62230cc580fe3a73dbcd2a53,09-Oct-08,3,0
+126,caught,Bengaluru,4,Test # 1887,177,v Australia,4,Drawn,49,38.88,62230cc580fe3a73dbcd2a54,09-Oct-08,4,0
+126,caught,Delhi,1,Test # 1891,188,v Australia,4,Drawn,68,53.96,62230cc580fe3a73dbcd2a55,29-Oct-08,11,0
+120,caught,Delhi,3,Test # 1891,159,v Australia,5,Drawn,47,39.16,62230cc580fe3a73dbcd2a56,29-Oct-08,4,0
+26,lbw,Mohali,1,Test # 1901,45,v England,4,Drawn,11,42.3,62230cc580fe3a73dbcd2a57,19-Dec-08,1,0
+22,caught,Mohali,3,Test # 1901,41,v England,4,Drawn,5,22.72,62230cc580fe3a73dbcd2a58,19-Dec-08,1,0
+65,caught,Napier,2,Test # 1917,98,v New Zealand,5,Drawn,49,75.38,62230cc580fe3a73dbcd2a59,26-Mar-09,7,1
+131,caught,Napier,3,Test # 1917,167,v New Zealand,4,Drawn,64,48.85,62230cc580fe3a73dbcd2a5a,26-Mar-09,9,1
+85,caught,Wellington,1,Test # 1918,108,v New Zealand,4,Drawn,62,72.94,62230cc580fe3a73dbcd2a5b,03-Apr-09,11,0
+20,caught,Wellington,3,Test # 1918,25,v New Zealand,4,Drawn,9,45,62230cc580fe3a73dbcd2a5c,03-Apr-09,0,1
+3,bowled,Ahmedabad,1,Test # 1933,3,v Sri Lanka,4,Drawn,4,133.33,62230cc580fe3a73dbcd2a5d,16-Nov-09,1,0
+211,not out,Ahmedabad,3,Test # 1933,298,v Sri Lanka,5,Drawn,100,47.39,62230cc580fe3a73dbcd2a5e,16-Nov-09,11,0
+347,caught,Colombo (SSC),2,Test # 1966,516,v Sri Lanka,4,Drawn,203,58.5,62230cc580fe3a73dbcd2a5f,26-Jul-10,23,1
+133,caught,Ahmedabad,1,Test # 1974,168,v New Zealand,4,Drawn,40,30.07,62230cc580fe3a73dbcd2a60,04-Nov-10,5,0
+25,bowled,Ahmedabad,3,Test # 1974,27,v New Zealand,4,Drawn,12,48,62230cc580fe3a73dbcd2a61,04-Nov-10,2,0
+28,caught,Hyderabad (Deccan),2,Test # 1975,52,v New Zealand,4,Drawn,13,46.42,62230cc580fe3a73dbcd2a62,12-Nov-10,1,0
+-,-,Hyderabad (Deccan),4,Test # 1975,-,v New Zealand,-,Drawn,DNB,-,62230cc580fe3a73dbcd2a63,12-Nov-10,-,-
+314,bowled,Cape Town,2,Test # 1988,465,v South Africa,4,Drawn,146,46.49,62230cc580fe3a73dbcd2a64,02-Jan-11,17,2
+91,not out,Cape Town,4,Test # 1988,146,v South Africa,4,Drawn,14,15.38,62230cc580fe3a73dbcd2a65,02-Jan-11,0,0
+153,caught,Mumbai,2,Test # 2019,219,v West Indies,4,Drawn,94,61.43,62230cc580fe3a73dbcd2a66,22-Nov-11,8,2
+7,caught,Mumbai,4,Test # 2019,6,v West Indies,4,Drawn,3,42.85,62230cc580fe3a73dbcd2a67,22-Nov-11,0,0
+13,bowled,Nagpur,2,Test # 2066,25,v England,4,Drawn,2,15.38,62230cc580fe3a73dbcd2a68,13-Dec-12,0,0

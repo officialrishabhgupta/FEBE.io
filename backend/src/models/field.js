@@ -22,7 +22,7 @@ const fieldSchema = new mongoose.Schema({
     Inns:{
         type:Number,
     },
-    DismissalMade:{
+    DismisalMade:{
         type:String,
     },
     CatchTaken:{
@@ -34,7 +34,7 @@ const fieldSchema = new mongoose.Schema({
     Ground:{
         type:String,
     },
-    StartDateAscending:{
+    date:{
         type:Date,
     },
     MatchNumber:{

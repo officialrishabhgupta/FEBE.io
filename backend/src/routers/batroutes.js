@@ -1,8 +1,8 @@
 const express = require("express");
 const router = new express.Router();
-const batcontroller = require("../controllers/batcontroller");
+const getController = require("../controllers/getController");
 
-router.route("/bat")
-.get(batcontroller.getBat);
+router.route("/getbat")
+.get(getController.getBat);
 
 module.exports = router;

@@ -34,7 +34,7 @@ const batSchema = new mongoose.Schema({
     Ground:{
         type:String,
     },
-    StartDateAscending:{
+    date:{
         type:Date,
     },
     MatchNumber:{
@@ -42,8 +42,7 @@ const batSchema = new mongoose.Schema({
     },
     Result:{
         type:String,
-    },
-
+    }
 })
 
 const BatStats = new mongoose.model("BatStats",batSchema)

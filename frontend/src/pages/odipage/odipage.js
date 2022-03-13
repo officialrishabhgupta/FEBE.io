@@ -7,7 +7,7 @@ function OdiPage() {
 
 
   const getData = async ()=>{
-    const response = await fetch("/odi");
+    const response = await fetch("http://localhost:3001/getodi");
     const data = await response.json();
     setState(data);
   }

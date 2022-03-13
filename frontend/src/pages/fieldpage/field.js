@@ -8,7 +8,7 @@ function FieldPage() {
 
 
   const getData = async ()=>{
-    const response = await fetch("/field");
+    const response = await fetch("http://localhost:3001/getfield");
     const data = await response.json();
     setState(data);
   }
@@ -67,10 +67,10 @@ function FieldPage() {
             opposition={item.Opposition}
             ground={item.Ground}
             result={item.Result}
-            catches={item['Catch Taken']}
-            dismissal={item['Dismisal Made']}
-            date={item['Start DateAscending']}
-            matchnumber={item['Match Number']}
+            catches={item.CatchTaken}
+            dismissal={item.DismisalMade}
+            date={item.date}
+            matchnumber={item.MatchNumber}
 
           />
 
